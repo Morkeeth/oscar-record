@@ -369,10 +369,23 @@
       },
       "oneLinerSource": "repo-description, NEEDS VOICE PASS",
       "oneLiner": "a prop-bet escrow that cannot pay out on a goal that did not happen."
+    },
+    {
+      "id": "030",
+      "slug": "litmus",
+      "name": "Litmus",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "station f",
+      "links": {
+        "live": "https://litmus-roan.vercel.app"
+      },
+      "oneLinerSource": "live-site, NEEDS VOICE PASS",
+      "oneLiner": "your crm is a firehose. sillage + fullenrich verify and de-noise it; litmus scores what's left against what you sell."
     }
   ],
   "_meta": {
-    "sourceHash": "23f46dd1790c40c9",
+    "sourceHash": "7de9556d6af6e711",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
