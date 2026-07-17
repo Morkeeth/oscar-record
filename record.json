@@ -7,7 +7,7 @@
     "contacts": "1,200+",
     "totalEthWon": "41.7 ETH",
     "users": "40K",
-    "devices": "9M+",
+    "devices": "8M+",
     "prevented": "$52M+",
     "terminals": 5,
     "etableraPeak": "8,000",
@@ -371,7 +371,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "6114c23c8e4103b2",
+    "sourceHash": "b575e04fd0dc19a2",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
