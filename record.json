@@ -378,14 +378,15 @@
       "track": "agents",
       "buildTime": "station f",
       "links": {
-        "live": "https://litmus-roan.vercel.app"
+        "live": "https://litmus-roan.vercel.app",
+        "repo": "https://github.com/Morkeeth/Litmus-Anthropic-gtm"
       },
       "oneLinerSource": "live-site, NEEDS VOICE PASS",
       "oneLiner": "your crm is a firehose. sillage + fullenrich verify and de-noise it; litmus scores what's left against what you sell."
     }
   ],
   "_meta": {
-    "sourceHash": "7de9556d6af6e711",
+    "sourceHash": "e349f49beb604acf",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
