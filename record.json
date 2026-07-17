@@ -1,0 +1,377 @@
+{
+  "stats": {
+    "hackathonCount": 16,
+    "hackathonWins": 9,
+    "prizes": "$188K",
+    "prizesAsOf": "oct 2025",
+    "contacts": "1,200+",
+    "totalEthWon": "41.7 ETH",
+    "users": "40K",
+    "devices": "8M+",
+    "prevented": "$52M+",
+    "terminals": 5,
+    "etableraPeak": "8,000",
+    "etableraClients": "30+",
+    "bounties": "30+",
+    "anotherblockVolume": "$2.1M"
+  },
+  "timeline": [
+    {
+      "date": "2018",
+      "name": "SAS Hack",
+      "project": "intent-based travel",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": "first hackathon ever"
+    },
+    {
+      "date": "2018",
+      "name": "Vinnova Innovation",
+      "project": "VEX",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": ""
+    },
+    {
+      "date": "2019",
+      "name": "Gotham DLT",
+      "project": "Tech for Good (judge)",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "competed": false,
+      "bounties": "judge at microsoft hq ny — first blockchain event, judge before builder"
+    },
+    {
+      "date": "2021-10",
+      "name": "ETH Lisbon",
+      "project": "Contrib",
+      "prize": "$13,200",
+      "eth": "3.00",
+      "ethPrice": "$4,132",
+      "bounties": "Tally + MetaCartel winner"
+    },
+    {
+      "date": "2022-06",
+      "name": "ETH NYC",
+      "project": "NFT Safe Launch",
+      "prize": "$10,392",
+      "eth": "11.36",
+      "ethPrice": "$1,193",
+      "bounties": "Finalist, Valist Best Use, UMA Silver"
+    },
+    {
+      "date": "2022-10",
+      "name": "ETH Bogota",
+      "project": "Gates.wtf",
+      "prize": "$14,169",
+      "eth": "10.85",
+      "ethPrice": "$1,323",
+      "bounties": "9 bounties: Optimism, Worldcoin, Coinbase x2, ENS x2, The Graph, Ceramic, Quicknode"
+    },
+    {
+      "date": "2022-10",
+      "name": "Arbitrum",
+      "project": "ArbiGates",
+      "prize": "$13,500",
+      "eth": "10.34",
+      "ethPrice": "$1,306",
+      "bounties": "partner golds (~3rd overall)"
+    },
+    {
+      "date": "2022-11",
+      "name": "Chainlink Hackathon",
+      "project": "",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": ""
+    },
+    {
+      "date": "2023-03",
+      "name": "ETH Denver",
+      "project": "Swosh.cash",
+      "prize": "$3,500",
+      "eth": "2.24",
+      "ethPrice": "$1,561",
+      "bounties": "Scroll + Lens"
+    },
+    {
+      "date": "2023-05",
+      "name": "ETH Lisbon",
+      "project": "Nouns ML",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": ""
+    },
+    {
+      "date": "2023-07",
+      "name": "ETH Paris",
+      "project": "Headstart",
+      "prize": "$800",
+      "eth": "0.48",
+      "ethPrice": "$1,652",
+      "bounties": ""
+    },
+    {
+      "date": "2023-11",
+      "name": "ETH Istanbul",
+      "project": "AAtomato",
+      "prize": "$7,056",
+      "eth": "3.43",
+      "ethPrice": "$2,022",
+      "bounties": "Unlimit 1st, Aave DAO Best Tooling"
+    },
+    {
+      "date": "2025-11",
+      "name": "Tech Europe",
+      "project": "Loop",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": ""
+    },
+    {
+      "date": "2026-01",
+      "name": "Paris Innov'Hack",
+      "project": "BriefMCP",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": "Finalist / 50 teams"
+    },
+    {
+      "date": "2026-03",
+      "name": "Synthesis",
+      "project": "Yieldbound",
+      "prize": "$1,000",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": "2nd / 687"
+    },
+    {
+      "date": "2026-04",
+      "name": "World Build 3",
+      "project": "RELAY",
+      "prize": "$2,500",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": "2nd / 500 teams"
+    },
+    {
+      "date": "2026-05",
+      "name": "ETH Open Agents",
+      "project": "RECEIPT",
+      "prize": "",
+      "eth": "",
+      "ethPrice": "",
+      "bounties": "top 20 / 468"
+    }
+  ],
+  "projects": [
+    {
+      "id": "004",
+      "slug": "ledger",
+      "name": "Ledger",
+      "year": "2025-26",
+      "track": "work",
+      "buildTime": "production"
+    },
+    {
+      "slug": "anotherblock",
+      "name": "Anotherblock",
+      "year": "2022-24",
+      "track": "work",
+      "buildTime": "2.5 years"
+    },
+    {
+      "slug": "etablera",
+      "name": "Etablera",
+      "year": "2017-20",
+      "track": "work",
+      "buildTime": "4 years"
+    },
+    {
+      "id": "003",
+      "slug": "wave-radio",
+      "name": "Wave Radio",
+      "year": "2024-26",
+      "track": "work",
+      "buildTime": "ongoing"
+    },
+    {
+      "id": "006",
+      "slug": "relay",
+      "name": "RELAY → FAVOUR",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "built in 48h",
+      "links": {
+        "live": "https://world-relay.vercel.app",
+        "repo": "https://github.com/MorkeethHQ/world-relay"
+      }
+    },
+    {
+      "id": "007",
+      "slug": "yieldbound",
+      "name": "Yieldbound",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "built in 48h",
+      "links": {
+        "live": "https://yieldbound.com",
+        "repo": "https://github.com/MorkeethHQ/delegated-agent-treasury"
+      }
+    },
+    {
+      "id": "008",
+      "slug": "receipt",
+      "name": "RECEIPT",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "built in 36h",
+      "links": {
+        "live": "https://receipt-murex.vercel.app",
+        "repo": "https://github.com/MorkeethHQ/receipt"
+      }
+    },
+    {
+      "id": "009",
+      "slug": "briefmcp",
+      "name": "BriefMCP",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "built in 24h",
+      "links": {
+        "repo": "https://github.com/Morkeeth/BriefMCP"
+      }
+    },
+    {
+      "id": "010",
+      "slug": "people-radar",
+      "name": "People Radar",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "nights"
+    },
+    {
+      "id": "012",
+      "slug": "bagel",
+      "name": "Bagel",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "weekends"
+    },
+    {
+      "id": "031",
+      "slug": "hermes",
+      "name": "Hermes",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "nights"
+    },
+    {
+      "slug": "the-os",
+      "name": "The OS",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "6 months of nights"
+    },
+    {
+      "slug": "loop",
+      "name": "Loop",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "nights",
+      "links": {
+        "live": "https://loop-labs.vercel.app",
+        "repo": "https://github.com/Morkeeth/Loop"
+      }
+    },
+    {
+      "slug": "gates",
+      "name": "Gates",
+      "year": "2022",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "slug": "arbigates",
+      "name": "ArbiGates",
+      "year": "2022",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "slug": "nft-safe-launch",
+      "name": "NFT Safe Launch",
+      "year": "2022",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "slug": "aatomato",
+      "name": "AAtomato",
+      "year": "2023",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "slug": "swosh",
+      "name": "Swosh.cash",
+      "year": "2023",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "slug": "contrib",
+      "name": "Contrib",
+      "year": "2021",
+      "track": "hackathons",
+      "buildTime": "built in 48h"
+    },
+    {
+      "id": "017",
+      "slug": "helicon",
+      "name": "Mount Helicon",
+      "year": "2026",
+      "track": "agents",
+      "links": {
+        "repo": "https://github.com/MorkeethHQ/mount-helicon"
+      },
+      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
+      "oneLiner": "the test-and-focus layer for ai agent memory: regression-tests what your agent retrieves, retires what is no longer true, turns memory state into cited next moves. ci for memory, with receipts."
+    },
+    {
+      "id": "036",
+      "slug": "kya",
+      "name": "KYA",
+      "year": "2026",
+      "track": "agents",
+      "links": {
+        "repo": "https://github.com/Morkeeth/kya-know-your-agent"
+      },
+      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
+      "oneLiner": "signed safe/caution/block trust verdicts for any okx.ai agent, before you transact. the agent-vetting primitive the marketplace is missing."
+    },
+    {
+      "id": "038",
+      "slug": "overturn",
+      "name": "Overturn",
+      "year": "2026",
+      "track": "agents",
+      "links": {
+        "repo": "https://github.com/Morkeeth/overturn"
+      },
+      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
+      "oneLiner": "a prop-bet escrow that cannot pay out on a goal that did not happen."
+    }
+  ],
+  "_meta": {
+    "sourceHash": "b575e04fd0dc19a2",
+    "generatedFrom": "vault:00 Dashboard/record.md"
+  }
+}
