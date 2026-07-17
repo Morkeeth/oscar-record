@@ -383,10 +383,20 @@
       },
       "oneLinerSource": "live-site, NEEDS VOICE PASS",
       "oneLiner": "your crm is a firehose. sillage + fullenrich verify and de-noise it; litmus scores what's left against what you sell."
+    },
+    {
+      "id": "018",
+      "slug": "taste-machine",
+      "name": "Taste Machine",
+      "year": "2026",
+      "track": "agents",
+      "buildTime": "nights",
+      "oneLinerSource": "readme, NEEDS VOICE PASS",
+      "oneLiner": "a system for cultivating taste. seven modules, one relevance bar, and a verdict on every draft: kill, send, or exceptional."
     }
   ],
   "_meta": {
-    "sourceHash": "e349f49beb604acf",
+    "sourceHash": "8de5fe7eac7a0bf3",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
