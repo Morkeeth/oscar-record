@@ -274,6 +274,7 @@
       "buildTime": "nights"
     },
     {
+      "id": "033",
       "slug": "the-os",
       "name": "The OS",
       "year": "2026",
@@ -371,7 +372,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "b575e04fd0dc19a2",
+    "sourceHash": "23f46dd1790c40c9",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
