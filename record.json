@@ -2,10 +2,10 @@
   "stats": {
     "hackathonCount": 16,
     "hackathonWins": 9,
-    "prizes": "$188K",
+    "prizes": "$176K",
     "prizesAsOf": "oct 2025",
     "contacts": "1,200+",
-    "totalEthWon": "41.7 ETH",
+    "totalEthWon": "39.05 ETH",
     "users": "40K",
     "devices": "8M+",
     "prevented": "$52M+",
@@ -58,7 +58,7 @@
       "name": "ETH NYC",
       "project": "NFT Safe Launch",
       "prize": "$10,392",
-      "eth": "11.36",
+      "eth": "8.71",
       "ethPrice": "$1,193",
       "bounties": "Finalist, Valist Best Use, UMA Silver"
     },
@@ -393,10 +393,22 @@
       "buildTime": "nights",
       "oneLinerSource": "readme, NEEDS VOICE PASS",
       "oneLiner": "a system for cultivating taste. seven modules, one relevance bar, and a verdict on every draft: kill, send, or exceptional."
+    },
+    {
+      "slug": "cline-copilot-instructions",
+      "name": "cline",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "opened 2026-08-04",
+      "links": {
+        "pr": "https://github.com/cline/cline/pull/12936"
+      },
+      "oneLinerSource": "the PR body, verified against the repo",
+      "oneLiner": "their monorepo move left copilot-instructions routing at a deleted src/; of 19 routed paths 1 resolved. fixed the 11 with verifiable destinations, flagged the 9 without one rather than guess."
     }
   ],
   "_meta": {
-    "sourceHash": "8de5fe7eac7a0bf3",
+    "sourceHash": "bf4a9a90408ed3ef",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
