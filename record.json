@@ -232,21 +232,27 @@
       "name": "Ledger",
       "year": "2025-26",
       "track": "work",
-      "buildTime": "production"
+      "buildTime": "production",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "roadmaps, POCs, a send-performance harness, testing suites for clear signing, and the specifications for new features. a lot of architectural work on how things are supposed to work, for users and for the features themselves. mostly it is research distilled into what the hell can we do with this, how can it touch end users, and how can it move the needle. embedded apps, backend teams, nodes, infra."
     },
     {
       "slug": "anotherblock",
       "name": "Anotherblock",
       "year": "2022-24",
       "track": "work",
-      "buildTime": "2.5 years"
+      "buildTime": "2.5 years",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "it was insanity. legal engineering of what even makes sense, and pitching almost free money to artists. they have so much unpublished material, progress that never sees the light. royalties are the more legal side; now they could sell their drafts, which was not mainstream or polished yet. we called all night pitching the new concept until we finally had a line-up, then worked on artwork and what else could be given. difficult to scale, though - like luxury you need scarcity and rarity, and an mp3 file just is not that."
     },
     {
       "slug": "etablera",
       "name": "Etablera",
       "year": "2017-20",
       "track": "work",
-      "buildTime": "4 years"
+      "buildTime": "4 years",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "delivering projects end to end, managing expectations, negotiating, and learning that saying no helps. cheap clients and early annoyance lead to more of it later, not less. product marketing is the core of understanding what users want, and video editing and campaign launches are essential to knowing how things look and which angle to push. and organising hackathons and events is energetic."
     },
     {
       "id": "003",
@@ -254,7 +260,9 @@
       "name": "Wave Radio",
       "year": "2024-26",
       "track": "work",
-      "buildTime": "ongoing"
+      "buildTime": "ongoing",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "a way to channel my thoughts, and one of my favourite mediums. it lets me ask people hey, want to join my podcast. it ages well - a snapshot of what we were thinking. the ongoing obsession is whether it should be short format, and not wanting it to get too famous. it is almost an art project."
     },
     {
       "id": "006",
@@ -575,7 +583,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "d1fa1429f1e1d010",
+    "sourceHash": "715a6f1a92de7ff6",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
