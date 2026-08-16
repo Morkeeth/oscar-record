@@ -374,7 +374,9 @@
       "name": "ArbiGates",
       "year": "2022",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "an extension of Gates onto Arbitrum, gating video quality by what a user holds."
     },
     {
       "slug": "nft-safe-launch",
@@ -390,21 +392,27 @@
       "name": "AAtomato",
       "year": "2023",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "onboarding to crypto payments. a bank account in ten seconds, unbanked to banked."
     },
     {
       "slug": "swosh",
       "name": "Swosh.cash",
       "year": "2023",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "transfer control. protocol research into the approve-all pattern, so funds can be moved or off-ramped easily - and so everything can be pulled out at once in a security breach."
     },
     {
       "slug": "contrib",
       "name": "Contrib",
       "year": "2021",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "joined Antler, pitched Contrib, a developer community for people contributing to DAOs. hacked it and won, then found out the community did not want an equity company, they wanted a token launch - so we ran a small membership instead, and I turned down the $95K to raise from the community rather than give up equity. then DAOs died. they did not work. I kept leading the community anyway: 800 discord members, 100 of them building across different organisations. it is still there, quieter now but alive. then anotherblock made more sense."
     },
     {
       "id": "017",
@@ -583,7 +591,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "e852da9476dde62d",
+    "sourceHash": "54f7e17842704dbf",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
