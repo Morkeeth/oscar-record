@@ -509,8 +509,8 @@
         "live": "https://pypi.org/project/mountain-of-helicon",
         "repo": "https://github.com/Morkeeth/mountain-of-helicon"
       },
-      "oneLinerSource": "PyPI summary + a cold install, NEEDS VOICE PASS",
-      "oneLiner": "pip install mountain-of-helicon. audits agent-memory rot across a whole agent stack; 62 CLI subcommands and 23 MCP tools in the shipped wheel, and it killed two of its own findings the week it made them."
+      "oneLinerSource": "Oscar, from his own transcripts, 2026-08-10 and 2026-08-14",
+      "oneLiner": "the failure I kept catching was my own system reading my broken context and my own findings back to me like truths. ensemble theater. so this evaluates the flaws in the agentic setup: what is missing, the tracking, the data, the output. pip install mountain-of-helicon."
     },
     {
       "id": "041",
@@ -536,8 +536,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/retract"
       },
-      "oneLinerSource": "repo FINDINGS.md, NEEDS VOICE PASS",
-      "oneLiner": "compensating actions for agent work on CockroachDB and AWS Bedrock. six evals, each carrying its own control arm."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "fighting forgery. you have a database, someone claims a refund, and it catches it if they were a bad actor. six evals, each carrying its own control arm."
     },
     {
       "id": "043",
@@ -549,8 +549,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/Skill-Issue-BenchFlow-Agent-Skill-Lift"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "first Kaggle entry, to the agent skill-lift benchmark. reported an honest null with its control arms instead of a lift claim, and retracted its own harm finding before the deadline. results pending, no placement."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "I found Kaggle and it looked completely different to everything else. I had been looking for ways to review my own skills and evaluate them, so this was perfect. let us see if we win."
     },
     {
       "id": "044",
@@ -559,8 +559,8 @@
       "year": "2026",
       "track": "competitions",
       "buildTime": "submitted 16 Aug",
-      "oneLinerSource": "submission record, NEEDS VOICE PASS",
-      "oneLiner": "an adversarial evaluation for the Kaggle AI Agent Security competition, multi-step tool attacks, 1,554 teams. submitted and scoring; not placed. repo still private."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "even more interesting than the first one. I work in security, so this is a unique way to get new experience - not a product, a research-based experiment."
     },
     {
       "id": "045",
@@ -572,8 +572,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/weirder-md"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "six unusual ways to read a plain markdown file, and the live page rebuilds from git for someone who is not me."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "from a tweet by my favourite Obsidian guy, same as earned.supply. clout engineering to get likes on twitter, and also just a fun thing for myself: six unusual ways to read a plain markdown file."
     },
     {
       "id": "046",
@@ -603,7 +603,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "8945a0f4f410cf16",
+    "sourceHash": "5024824d223279c5",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
