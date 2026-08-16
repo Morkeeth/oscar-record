@@ -225,6 +225,10 @@
       "note": "underpowered and stated as such. It does not prove the rule is dead, only that there is no evidence it is alive. The strategy was shelved; the risk engine was kept."
     }
   ],
+  "trackNotes": {
+    "agents": "most of these were hackathon experiments, shaped by the bounty text and the sponsor list rather than by a problem I had. three were not: BriefMCP, Loop and Taste Machine.",
+    "hackathons": "the prize money is stated at time of win and never re-priced. what happened to it afterwards is a position, not a prize, and it is a different page."
+  },
   "projects": [
     {
       "id": "004",
@@ -262,7 +266,7 @@
       "track": "work",
       "buildTime": "ongoing",
       "oneLinerSource": "Oscar, 2026-08-16, verbatim",
-      "oneLiner": "a way to channel my thoughts, and one of my favourite mediums. it lets me ask people hey, want to join my podcast. it ages well - a snapshot of what we were thinking. the ongoing obsession is whether it should be short format, and not wanting it to get too famous. it is almost an art project."
+      "oneLiner": "a way to channel my thoughts, and one of my favourite mediums. I host it with Erik Nilsson and Eric Zackariason, and it lets me ask people hey, want to join my podcast. it ages well - a snapshot of what we were thinking. the ongoing obsession is whether it should be short format, and not wanting it to get too famous. it is almost an art project."
     },
     {
       "id": "006",
@@ -362,7 +366,7 @@
         "repo": "https://github.com/Morkeeth/Loop"
       },
       "oneLinerSource": "Oscar, 2026-08-16, verbatim",
-      "oneLiner": "calendar events. put one magical event in your calendar, get a weekly brief narrated by ElevenLabs, and an eval on which kinds of events are actually worth going to."
+      "oneLiner": "calendar events, and a dream Erik Nilsson and I had. put one magical event in your calendar, get a weekly brief narrated by ElevenLabs, and an eval on which kinds of events are actually worth going to."
     },
     {
       "slug": "gates",
@@ -595,7 +599,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "c7abebf9ebcdad52",
+    "sourceHash": "d37fdbbc29c351e5",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
