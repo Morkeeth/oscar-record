@@ -242,8 +242,8 @@
       "year": "2022-24",
       "track": "work",
       "buildTime": "2.5 years",
-      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
-      "oneLiner": "it was insanity. legal engineering of what even makes sense, and pitching almost free money to artists. they have so much unpublished material, progress that never sees the light. royalties are the more legal side; now they could sell their drafts, which was not mainstream or polished yet. we called all night pitching the new concept until we finally had a line-up, then worked on artwork and what else could be given. difficult to scale, though - like luxury you need scarcity and rarity, and an mp3 file just is not that."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim; Onchain Summer dates verified at source",
+      "oneLiner": "it was insanity. legal engineering of what even makes sense, and pitching almost free money to artists. they have so much unpublished material, progress that never sees the light. royalties are the more legal side; now they could sell their drafts, which was not mainstream or polished yet. we called all night pitching the new concept until we had a line-up, then worked on artwork and what else could be given. it put us on day six of Coinbase's Onchain Summer, 14 August 2023, the day after Coca-Cola, with never-before-heard tracks from Boys Noize and Laidback Luke. difficult to scale, though - like luxury you need scarcity and rarity, and an mp3 file just is not that."
     },
     {
       "slug": "etablera",
@@ -583,7 +583,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "715a6f1a92de7ff6",
+    "sourceHash": "e852da9476dde62d",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
