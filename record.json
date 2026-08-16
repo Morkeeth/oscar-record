@@ -447,8 +447,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/kya-know-your-agent"
       },
-      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
-      "oneLiner": "a security audit of other agents, paid for with x402 agentic payments on OKX's new agent store. results not back yet."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim; sales figure probed live the same day",
+      "oneLiner": "a security audit of other agents, paid for with x402 agentic payments on OKX's new agent store. it is live, and when you point it at itself it returns CAUTION - seven completed sales is not enough evidence to call anything safe, so it says so about its own listing."
     },
     {
       "id": "038",
@@ -603,7 +603,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "5024824d223279c5",
+    "sourceHash": "a54dc47acdadd071",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
