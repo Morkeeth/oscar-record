@@ -553,8 +553,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/nullspace"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "NEEDS A LINE FROM OSCAR."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "databases are built to store what is there. nullspace stores what was missing. every query that comes back empty gets filed, so you can see the shape of what people asked for and did not get. you ask the restaurant for a bottle of wine, they say no sir we do not have it, and nobody writes that down. this writes it down. built for datahub."
     },
     {
       "id": "047",
@@ -566,12 +566,12 @@
       "links": {
         "repo": "https://github.com/Morkeeth/pigeon"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "NEEDS A LINE FROM OSCAR."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "API keys and env variables are a nightmare to hand around, and the models got sensitive about printing them in chat. the fix is a clipboard save, which I read on twitter and which nobody tells you. pigeon is the guided version for people new to vibe coding - one, two, three, and the key is in the native iCloud keychain for good."
     }
   ],
   "_meta": {
-    "sourceHash": "3ae18fcf45126e60",
+    "sourceHash": "8379bd653f881b7a",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
