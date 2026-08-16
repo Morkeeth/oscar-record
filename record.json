@@ -315,7 +315,9 @@
       "buildTime": "built in 24h",
       "links": {
         "repo": "https://github.com/Morkeeth/BriefMCP"
-      }
+      },
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "sharing context inside a team. an MCP server holding the context files on a RAG, so they can be retrieved independently of the harness - from Claude Code to Cursor and back."
     },
     {
       "id": "010",
@@ -358,7 +360,9 @@
       "links": {
         "live": "https://loop-labs.vercel.app",
         "repo": "https://github.com/Morkeeth/Loop"
-      }
+      },
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "calendar events. put one magical event in your calendar, get a weekly brief narrated by ElevenLabs, and an eval on which kinds of events are actually worth going to."
     },
     {
       "slug": "gates",
@@ -471,8 +475,8 @@
       "year": "2026",
       "track": "agents",
       "buildTime": "nights",
-      "oneLinerSource": "readme, NEEDS VOICE PASS",
-      "oneLiner": "a system for cultivating taste. seven modules, one relevance bar, and a verdict on every draft: kill, send, or exceptional."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "a simple evaluation and feedback engine for finding tweets and replies worth writing: tone of voice, and the right target."
     },
     {
       "slug": "cline-copilot-instructions",
@@ -591,7 +595,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "54f7e17842704dbf",
+    "sourceHash": "c7abebf9ebcdad52",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
