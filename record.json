@@ -307,8 +307,8 @@
         "live": "https://receipt-murex.vercel.app",
         "repo": "https://github.com/MorkeethHQ/receipt"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "signed, hash-linked receipts for agent work, then a TEE-attested score of whether the work was actually useful. an agent cannot pick its own grader."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "signed, hash-linked receipts for agent work, then a score of whether the work was actually useful - an agent cannot pick its own grader. built for ETHGlobal Online on OG. top 20, won nothing, and honestly it was mainly a cool demo: hard to use in my own setup."
     },
     {
       "id": "009",
@@ -447,8 +447,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/kya-know-your-agent"
       },
-      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
-      "oneLiner": "signed safe/caution/block trust verdicts for any okx.ai agent, before you transact. the agent-vetting primitive the marketplace is missing."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "a security audit of other agents, paid for with x402 agentic payments on OKX's new agent store. results not back yet."
     },
     {
       "id": "038",
@@ -459,8 +459,8 @@
       "links": {
         "repo": "https://github.com/Morkeeth/overturn"
       },
-      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
-      "oneLiner": "a prop-bet escrow that cannot pay out on a goal that did not happen."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "the idea was to stop settling bets while a VAR review is still running - the phantom goal problem. it used the sponsor's tooling properly rather than decoratively. won nothing."
     },
     {
       "id": "030",
@@ -473,8 +473,8 @@
         "live": "https://litmus-roan.vercel.app",
         "repo": "https://github.com/Morkeeth/Litmus-Anthropic-gtm"
       },
-      "oneLinerSource": "live-site, NEEDS VOICE PASS",
-      "oneLiner": "your crm is a firehose. sillage + fullenrich verify and de-noise it; litmus scores what's left against what you sell."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "a beautifully abstracted CRM: three top contacts scored every morning, each with a cited reason. I thought we had a real chance, and then five other teams had built the same thing. convergence, again."
     },
     {
       "id": "018",
@@ -603,7 +603,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "b351a2f2f72dece0",
+    "sourceHash": "8945a0f4f410cf16",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
