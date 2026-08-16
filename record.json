@@ -357,7 +357,9 @@
       "name": "Gates",
       "year": "2022",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, relayed verbatim",
+      "oneLiner": "token-gated feature unlocking. a developer tool that gates features and experiences by what a user holds."
     },
     {
       "slug": "arbigates",
@@ -371,7 +373,9 @@
       "name": "NFT Safe Launch",
       "year": "2022",
       "track": "hackathons",
-      "buildTime": "built in 48h"
+      "buildTime": "built in 48h",
+      "oneLinerSource": "Oscar, 2026-08-16, relayed verbatim",
+      "oneLiner": "condition-gated release infrastructure. external data decides when something unlocks. not an NFT project."
     },
     {
       "slug": "aatomato",
@@ -571,7 +575,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "8379bd653f881b7a",
+    "sourceHash": "d1fa1429f1e1d010",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
