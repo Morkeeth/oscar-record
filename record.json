@@ -212,7 +212,9 @@
       "links": {
         "live": "https://world-relay.vercel.app",
         "repo": "https://github.com/MorkeethHQ/world-relay"
-      }
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "post a real-world favour and a World ID verified human goes and does it, with photo proof an AI checks. points first, and nothing of yours is ever held."
     },
     {
       "id": "007",
@@ -224,7 +226,9 @@
       "links": {
         "live": "https://yieldbound.com",
         "repo": "https://github.com/MorkeethHQ/delegated-agent-treasury"
-      }
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "agents do not need full wallets, they need bounded authority. lock the principal and let the agent spend only what the yield earns."
     },
     {
       "id": "008",
@@ -236,7 +240,9 @@
       "links": {
         "live": "https://receipt-murex.vercel.app",
         "repo": "https://github.com/MorkeethHQ/receipt"
-      }
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "signed, hash-linked receipts for agent work, then a TEE-attested score of whether the work was actually useful. an agent cannot pick its own grader."
     },
     {
       "id": "009",
@@ -405,10 +411,113 @@
       },
       "oneLinerSource": "the PR body, verified against the repo",
       "oneLiner": "their monorepo move left copilot-instructions routing at a deleted src/; of 19 routed paths 1 resolved. fixed the 11 with verifiable destinations, flagged the 9 without one rather than guess."
+    },
+    {
+      "id": "040",
+      "slug": "mountain-of-helicon",
+      "name": "Mountain of Helicon",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "shipped to PyPI 14 Aug",
+      "links": {
+        "live": "https://pypi.org/project/mountain-of-helicon",
+        "repo": "https://github.com/Morkeeth/mountain-of-helicon"
+      },
+      "oneLinerSource": "PyPI summary + a cold install, NEEDS VOICE PASS",
+      "oneLiner": "pip install mountain-of-helicon. audits agent-memory rot across a whole agent stack; 62 CLI subcommands and 23 MCP tools in the shipped wheel, and it killed two of its own findings the week it made them."
+    },
+    {
+      "id": "041",
+      "slug": "fleet",
+      "name": "fleet",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "one day, then published",
+      "links": {
+        "live": "https://github.com/Morkeeth/fleet",
+        "repo": "https://github.com/Morkeeth/fleet"
+      },
+      "oneLinerSource": "repo FINDINGS.md, NEEDS VOICE PASS",
+      "oneLiner": "running many coding agents at once, measured rather than assumed. the throughput hypothesis came back null, 1.08x output for 3.2x compute, and six findings a second agent could not reproduce were cut rather than softened."
+    },
+    {
+      "id": "042",
+      "slug": "retract",
+      "name": "RETRACT",
+      "year": "2026",
+      "track": "hackathons",
+      "buildTime": "in flight, deadline 18 Aug",
+      "links": {
+        "repo": "https://github.com/Morkeeth/retract"
+      },
+      "oneLinerSource": "repo FINDINGS.md, NEEDS VOICE PASS",
+      "oneLiner": "compensating actions for agent work on CockroachDB and AWS Bedrock. six evals, each carrying its own control arm."
+    },
+    {
+      "id": "043",
+      "slug": "skill-issue",
+      "name": "Skill Issue",
+      "year": "2026",
+      "track": "competitions",
+      "buildTime": "submitted 12 Aug",
+      "links": {
+        "repo": "https://github.com/Morkeeth/Skill-Issue-BenchFlow-Agent-Skill-Lift"
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "first Kaggle entry, to the agent skill-lift benchmark. reported an honest null with its control arms instead of a lift claim, and retracted its own harm finding before the deadline. results pending, no placement."
+    },
+    {
+      "id": "044",
+      "slug": "agent-attack",
+      "name": "agent-attack",
+      "year": "2026",
+      "track": "competitions",
+      "buildTime": "submitted 16 Aug",
+      "oneLinerSource": "submission record, NEEDS VOICE PASS",
+      "oneLiner": "an adversarial evaluation for the Kaggle AI Agent Security competition, multi-step tool attacks, 1,554 teams. submitted and scoring; not placed. repo still private."
+    },
+    {
+      "id": "045",
+      "slug": "weirder-md",
+      "name": "weirder-md",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "built in a night",
+      "links": {
+        "repo": "https://github.com/Morkeeth/weirder-md"
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "six unusual ways to read a plain markdown file, and the live page rebuilds from git for someone who is not me."
+    },
+    {
+      "id": "046",
+      "slug": "nullspace",
+      "name": "nullspace",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "5 Aug",
+      "links": {
+        "repo": "https://github.com/Morkeeth/nullspace"
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "NEEDS A LINE FROM OSCAR."
+    },
+    {
+      "id": "047",
+      "slug": "pigeon",
+      "name": "pigeon",
+      "year": "2026",
+      "track": "open-source",
+      "buildTime": "30 Jul",
+      "links": {
+        "repo": "https://github.com/Morkeeth/pigeon"
+      },
+      "oneLinerSource": "repo README, NEEDS VOICE PASS",
+      "oneLiner": "NEEDS A LINE FROM OSCAR."
     }
   ],
   "_meta": {
-    "sourceHash": "bf4a9a90408ed3ef",
+    "sourceHash": "744cfbcfaf85d414",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
