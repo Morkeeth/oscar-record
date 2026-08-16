@@ -279,8 +279,8 @@
         "live": "https://world-relay.vercel.app",
         "repo": "https://github.com/MorkeethHQ/world-relay"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "post a real-world favour and a World ID verified human goes and does it, with photo proof an AI checks. points first, and nothing of yours is ever held."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "post a real-world favour and a World ID verified human goes and does it, with photo proof an AI checks. it got a couple of users and then stalled on not being accepted. I tried to stimulate usage by putting money in, but the agentic-bounty, rent-a-human idea did not really make sense for that audience - the World app store is used mostly by people in Nigeria and the Philippines who are there for quick tokens. next step is either real collaboration with the World Foundation, or a completely new app tailored to who is actually there."
     },
     {
       "id": "007",
@@ -293,8 +293,8 @@
         "live": "https://yieldbound.com",
         "repo": "https://github.com/MorkeethHQ/delegated-agent-treasury"
       },
-      "oneLinerSource": "repo README, NEEDS VOICE PASS",
-      "oneLiner": "agents do not need full wallets, they need bounded authority. lock the principal and let the agent spend only what the yield earns."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "agents do not need full wallets, they need bounded authority: lock the principal and let the agent spend only what the yield earns. silver from MoonPay. my first agentic hackathon and it was amazing - pushed by odawg and Bagel, and a lot of the best stories came out of it. probably frozen now."
     },
     {
       "id": "008",
@@ -329,7 +329,9 @@
       "name": "People Radar",
       "year": "2026",
       "track": "agents",
-      "buildTime": "nights"
+      "buildTime": "nights",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "I have always wanted to keep track of contacts and people, in one chat interface. building it taught me that most of it comes up naturally anyway, which is why recall is nice to have rather than urgent."
     },
     {
       "id": "012",
@@ -353,7 +355,9 @@
       "name": "The OS",
       "year": "2026",
       "track": "agents",
-      "buildTime": "6 months of nights"
+      "buildTime": "6 months of nights",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "the second brain, and the operating system it runs on."
     },
     {
       "slug": "loop",
@@ -431,8 +435,8 @@
       "links": {
         "repo": "https://github.com/MorkeethHQ/mount-helicon"
       },
-      "oneLinerSource": "repo-description, NEEDS VOICE PASS",
-      "oneLiner": "the test-and-focus layer for ai agent memory: regression-tests what your agent retrieves, retires what is no longer true, turns memory state into cited next moves. ci for memory, with receipts."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "built for a Qwen and Alibaba hackathon, and frozen there. then I wanted my own tool, which is Mountain of Helicon - the one we actually use."
     },
     {
       "id": "036",
@@ -519,8 +523,8 @@
         "live": "https://github.com/Morkeeth/fleet",
         "repo": "https://github.com/Morkeeth/fleet"
       },
-      "oneLinerSource": "repo FINDINGS.md, NEEDS VOICE PASS",
-      "oneLiner": "running many coding agents at once, measured rather than assumed. the throughput hypothesis came back null, 1.08x output for 3.2x compute, and six findings a second agent could not reproduce were cut rather than softened."
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "one of the most fascinating experiments I have run: taking multi-agent output seriously and setting the whole thing up agentically. the throughput hypothesis came back null, 1.08x the output for 3.2x the compute, and six findings a second agent could not reproduce were cut rather than softened."
     },
     {
       "id": "042",
@@ -599,7 +603,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "d37fdbbc29c351e5",
+    "sourceHash": "b351a2f2f72dece0",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
