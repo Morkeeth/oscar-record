@@ -180,8 +180,9 @@
       "method": "six lanes against a solo baseline, preregistered, sum of per-lane durations",
       "result": "1.08x the output for 3.2x the compute, 955 agent-seconds against 297",
       "verdict": null,
+      "source": "https://github.com/Morkeeth/experiments/blob/main/exp-04-multi-agent-throughput.md",
       "ownRun": true,
-      "public": false,
+      "public": true,
       "note": "write-up lives in fleet-ops, which is private. The tool and its findings are public at github.com/Morkeeth/fleet; this specific measurement is not yet."
     },
     {
@@ -194,7 +195,7 @@
       "verdict": "refuted",
       "ownRun": false,
       "public": true,
-      "source": "https://www.tbench.ai/leaderboard/terminal-bench/2.1",
+      "source": "https://github.com/Morkeeth/experiments/blob/main/exp-07-harness-premium.md",
       "note": "RE-ANALYSIS of someone else's leaderboard, not an experiment I ran. It becomes mine the day I run Terminus 2 myself."
     },
     {
@@ -205,8 +206,9 @@
       "method": "54 blind judges, three repeats per variant, one sentence changed at a time and everything else byte-identical",
       "result": "the tailored version scored lower and five times less stably, spread 0.83 against 0.17. Replicated three days apart on independent runs",
       "verdict": "refuted",
+      "source": "https://github.com/Morkeeth/experiments/blob/main/exp-09-document-tailoring.md",
       "ownRun": true,
-      "public": false,
+      "public": true,
       "note": "run on my own instrument. Write-up is in a private repo."
     },
     {
@@ -217,8 +219,9 @@
       "method": "train 2024-05 to 2025-12, held out 2026-01 to 2026-08",
       "result": "no out-of-sample edge. Median held-out trade minus 50.3% of margin, n=9 and 5",
       "verdict": null,
+      "source": "https://github.com/Morkeeth/experiments/blob/main/exp-11-dip-buy-walk-forward.md",
       "ownRun": true,
-      "public": false,
+      "public": true,
       "note": "underpowered and stated as such. It does not prove the rule is dead, only that there is no evidence it is alive. The strategy was shelved; the risk engine was kept."
     }
   ],
@@ -568,7 +571,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "6442db24c22c6252",
+    "sourceHash": "3ae18fcf45126e60",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
