@@ -339,7 +339,9 @@
       "name": "Bagel",
       "year": "2026",
       "track": "agents",
-      "buildTime": "weekends"
+      "buildTime": "weekends",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "my OpenClaw. an autonomous agent living on a Hetzner VPS, one of two companions in the stack. it is struggling and currently blocked - part of the architecture, not part of what is working."
     },
     {
       "id": "031",
@@ -347,7 +349,9 @@
       "name": "Hermes",
       "year": "2026",
       "track": "agents",
-      "buildTime": "nights"
+      "buildTime": "nights",
+      "oneLinerSource": "Oscar, 2026-08-16, verbatim",
+      "oneLiner": "Pretzel. the second autonomous agent on the Hetzner box, the courier half of the pair. same honest state as Bagel: in the architecture, currently blocked, not doing great."
     },
     {
       "id": "033",
@@ -603,7 +607,7 @@
     }
   ],
   "_meta": {
-    "sourceHash": "a54dc47acdadd071",
+    "sourceHash": "711c9d4a6a2e5ab2",
     "generatedFrom": "vault:00 Dashboard/record.md"
   }
 }
