@@ -4,7 +4,7 @@ Read README.md first. This guide describes the repository source, not an authori
 
 ## Code map
 
-
+- `publish.py`: inspect this source before executing it.
 
 ## Safe first review
 
