@@ -1,5 +1,13 @@
 # oscar-record
 
+**One published JSON record of Oscar's facts, generated from the vault, so every public site fetches the same numbers instead of retyping them.**
+
+- Problem: two hand-typed `data.ts` files had forked, and new projects stopped reaching the portfolio.
+- For: the author's own sites, and anyone who wants to build on the same facts.
+- What it does: `publish.py` turns the vault's `record.md` into `record.json`, runs four guards (ETH total, hackathon count, dated prices, duplicate slugs), and `--check` fails loudly when the vault moved and nobody published.
+- Try it: `curl -s https://raw.githubusercontent.com/Morkeeth/oscar-record/main/record.json`. Built July 2026.
+
+
 **The published record. One source, fetched the same way by every public surface.**
 
 Do not edit `record.json`. It is generated.
