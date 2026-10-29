@@ -1,12 +1,21 @@
 # oscar-record
 
-**One published JSON record of Oscar's facts, generated from the vault, so every public site fetches the same numbers instead of retyping them.**
+## TLDR
+
+Generate one published JSON record for the facts used across Oscar's sites.<br>
+For site maintainers who need the same project facts without copying constants between pages.<br>
+The vault is the editable source; generated record.json is checked and published by the repository's tooling.
+
+## The problem and approach
 
 - Problem: two hand-typed `data.ts` files had forked, and new projects stopped reaching the portfolio.
-- For: the author's own sites, and anyone who wants to build on the same facts.
 - What it does: `publish.py` turns the vault's `record.md` into `record.json`, runs four guards (ETH total, hackathon count, dated prices, duplicate slugs), and `--check` fails loudly when the vault moved and nobody published.
-- Try it: `curl -s https://raw.githubusercontent.com/Morkeeth/oscar-record/main/record.json`. Built July 2026.
 
+## Review and pick up the work
+
+[Agent guide](AGENTS.md)
+
+Start with the linked source, setup and evidence. Recorded demos and sample data keep their original scope; use the repository instructions for a fresh run.
 
 **The published record. One source, fetched the same way by every public surface.**
 
@@ -39,7 +48,7 @@ bake values back in and recreate the restatements the portfolio spent a whole pa
 
 - ETH column must sum to `stats.totalEthWon`
 - competed rows must equal `stats.hackathonCount`
-- a price must carry its `as_of` (`prizes` needs `prizesAsOf`) — a price without one rots
+- a price must carry its `as_of` (`prizes` needs `prizesAsOf`) ;  a price without one rots
 - no duplicate slugs
 
 All four are proven to fire, not assumed.
@@ -51,3 +60,7 @@ curl -s https://raw.githubusercontent.com/Morkeeth/oscar-record/main/record.json
 ```
 
 `_meta.sourceHash` identifies the exact vault body a build came from.
+
+## License and data boundaries
+
+This checkout has no root license file establishing general reuse rights. Data, provider responses, media, fonts and other third-party assets may have separate terms. Repository access alone does not grant rights to those materials. 
